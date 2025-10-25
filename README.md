@@ -1,8 +1,8 @@
 # Hi, I'm Asha Venkataraman 👋
 
-Business Analyst • 14+ years in IT • Domain: Retail | Banking | ERP
+Business processes Lead • 14+ years in IT • Domain: Retail | Banking | ERP
 
-I'm a results-driven Business Analyst with 14+ years of experience bridging business needs and technical delivery. I work at the intersection of people, process, and technology — gathering requirements, designing solutions, and ensuring successful implementation. My background includes hands-on exposure to Java, SAP ABAP & Security, and MySQL across retail, banking, and ERP programs.
+I'm a results-driven Business Analyst with 14+ years of experience bridging business needs and technical delivery. I work at the intersection of people, process, and technology — gathering requirements, designing solutions, and ensuring successful implementation. My background includes hands-on exposure to Java, SAP ABAP & Security, and MySQL across retail, banking, and ERP Domain.
 
 ---
 
