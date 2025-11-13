@@ -50,7 +50,8 @@ Soft Skills
 ---
 
 ## 🚀 Selected Projects (template — please provide details to personalize)
-1. Company Name — TCS domain : Capital marketing 
+1. Company Name — TCS
+   - domain : Capital marketing 
    - Role: Team Lead, SDL , RCML , Audit
    - Summary: We are serving 16+ clients supporting global financial institutes at the country level, including exchanges, depositories and registries. We are provide L2 &L3 .
    - Tech/Tools: Java, ALM, MySQL, JIRA, etc.
@@ -58,7 +59,8 @@ Soft Skills
    - Long pending NC's are reduced.
    -  
 
-2. Company Name — IBM .Domain : ERP
+3. Company Name — IBM
+   - Domain : ERP
    - Role: SAP Security & ABAP
    - Summary: D.E Master Blenders 1753 is an international coffee and tea company, headquartered in the Netherlands. With sales of €2.7bn, our coffee and tea products are available in more than 45 countries and        70% of our revenue comes from markets where we have a No.1 or No.2 position.
    - Tech/Tools: SAP
@@ -70,10 +72,10 @@ Soft Skills
 
 ## 💡 What’s Next?
 I’ll continue upskilling:
-•	Power BI Dashboard Challenge
-•	Advaced Excel
-•	Python Data Analysis (Pandas + Matplotlib)
-•	Machine Learning Mini Projects
+•	- Power BI 
+•	- Advaced Excel
+•	- Python Data Analysis (Pandas + Matplotlib)
+•	- Machine Learning Mini Projects
 
 
 
