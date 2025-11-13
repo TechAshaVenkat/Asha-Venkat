@@ -50,37 +50,45 @@ Soft Skills
 ---
 
 ## 🚀 Selected Projects (template — please provide details to personalize)
-1. Project Name — Short domain/context (Retail/BFSI/ERP)
-   - Role: Business Analyst
-   - Summary: One-line description of the problem and solution
-   - Tech/Tools: Java, SAP ABAP, MySQL, JIRA, etc.
-   - Impact: (e.g., Reduced process time by X%, improved reconciliation accuracy, enabled Y users)
+1. Company Name — TCS domain : Capital marketing 
+   - Role: Team Lead, SDL , RCML , Audit
+   - Summary: We are serving 16+ clients supporting global financial institutes at the country level, including exchanges, depositories and registries. We are provide L2 &L3 .
+   - Tech/Tools: Java, ALM, MySQL, JIRA, etc.
+   - Impact: Delivered small CR to production.
+   - Long pending NC's are reduced.
+   -  
 
-2. Project Name — ...
-   - Role:
-   - Summary:
-   - Tech/Tools:
-   - Impact:
+2. Company Name — IBM .Domain : ERP
+   - Role: SAP Security & ABAP
+   - Summary: D.E Master Blenders 1753 is an international coffee and tea company, headquartered in the Netherlands. With sales of €2.7bn, our coffee and tea products are available in more than 45 countries and        70% of our revenue comes from markets where we have a No.1 or No.2 position.
+   - Tech/Tools: SAP
+   - Impact: production Support.
 
 (If you share links or repo names, I can format these as clickable links and show highlights.)
 
 ---
 
-## 🎯 Achievements & Certifications
-- (Add certifications such as CBAP, PMI-PBA, ScrumMaster, SAP certifications if any)
-- (Add awards, major project outcomes or quantifiable achievements)
+## 💡 What’s Next?
+I’ll continue upskilling:
+•	Power BI Dashboard Challenge
+•	Advaced Excel
+•	Python Data Analysis (Pandas + Matplotlib)
+•	Machine Learning Mini Projects
+
+
 
 ---
 
 ## 📫 Contact & Links
 - GitHub: https://github.com/TechAshaVenkat
-- LinkedIn: (your LinkedIn URL)
-- Email: (your email)
+- LinkedIn: [(your LinkedIn URL)](https://www.linkedin.com/in/da-asha-1255b6390/)
+- Email: ashavenkatda@gmail.com
 - Portfolio / Resume: (link)
 
 Share your social links and I will add them in the final README.
 
 ---
+
 
 ## ✨ Want this README to stand out more?
 I can:
